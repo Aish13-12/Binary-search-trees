@@ -72,9 +72,8 @@ int main()
 			case 5:
 			   ri=0;
 			   le=0;
-			   currentno=find(head,arr[j+1]);//finding the needed node to print the sub-tree
-			   printf("%c[2K", 27);
-			   printf("\r");
+			   currentno=find1(head,arr[j+1]);//finding the needed node to print the sub-tree
+			   
 			   printf("Inorder:");
 			   printtreein(currentno);
 			   printf("\nPreorder:");
