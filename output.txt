@@ -1,0 +1,15 @@
+True
+True
+True
+True
+True
+True
+True
+True,depth = 0
+True,depth = 3
+False
+Imbalance: 2
+Imbalance: 1
+Inorder:0 3 5 7 10 20 25 
+Preorder:10 5 0 3 7 20 25 
+Postorder:3 0 7 5 25 20 10 
